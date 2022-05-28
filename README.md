@@ -14,7 +14,7 @@
 
 #### 【截止：5.20】 [北京大学--未来技术学院关于举办 “2022年全国优秀大学生夏令营” 活动的通知（第一轮）](https://future.pku.edu.cn/xwyjz/xwzk/07b48713a6eb4cb4ac654fdf61031261.htm)   
 
-#### 【截止：5.20】 [中国人民大学信息学院“2022年优秀大学生夏令营”招生简章](http://info.ruc.edu.cn/notice_convert_detail.php?id=2265)   
+~~【截止：5.20】 [中国人民大学信息学院“2022年优秀大学生夏令营”招生简章](http://info.ruc.edu.cn/notice_convert_detail.php?id=2265)  ~~ 
 
 #### 【截止：6.10】 [南京大学软件所招收 2022/2023 年秋季入学研究生说明](https://cs.nju.edu.cn/ics/recruit/index.html)
 
