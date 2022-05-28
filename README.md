@@ -16,7 +16,7 @@
 
 #### 【截止：5.20】 [中国人民大学信息学院“2022年优秀大学生夏令营”招生简章](http://info.ruc.edu.cn/notice_convert_detail.php?id=2265)   
 
-#### 【截止：】 [南京大学软件所招收 2022/2023 年秋季入学研究生说明](https://cs.nju.edu.cn/ics/recruit/index.html)
+#### 【截止：6.10】 [南京大学软件所招收 2022/2023 年秋季入学研究生说明](https://cs.nju.edu.cn/ics/recruit/index.html)
 
 
 #### 【截止：5.31】【人数350人左右】 [复旦大学信息科学与工程学院2022年全国优秀大学生夏令营活动](http://www.it.fudan.edu.cn/Data/View/4104)
